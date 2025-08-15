@@ -1,7 +1,7 @@
 # MITHIC_event_2025Aug18
 Random sample from WorldMedQA-T
 
-This preview contains 220 examples drawn from 10 countries and representing 10 languages.
+This preview contains 220 examples drawn from 10 countries and representing 10 languages.    
 
 
 
