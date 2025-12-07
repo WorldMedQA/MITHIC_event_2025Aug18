@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# uv
+.python-version
+uv.lock
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Data files (if needed)
+*.pkl
+*.h5
